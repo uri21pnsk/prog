@@ -10,10 +10,16 @@ i=i+1;
 }
 
 
-int=z;
+int z;
 z=0;
 while (z<1298){
     cout<<"Te amo, eres  el mejor \n";
     z=z+1;
+}
+int k;
+k=0;
+while (k<728){
+    cout<<"Pon el lavavajillas \n";
+    k=k+1;
 }
 
