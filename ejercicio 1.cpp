@@ -4,10 +4,9 @@ int main(){
     int i;
     i=0;
     while(i<6){
-cout << "Hello Bebesita \n";
-i=i+1;
+        cout << "Hello Bebesita \n";
+        i=i+1;
     }
-}
 
 
 int z;
@@ -27,3 +26,5 @@ w=0;
 while (w<15000){
     cout<<"Te amo mucho, sigue así \n";
     w=w+1;
+}
+}
