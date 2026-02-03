@@ -22,4 +22,8 @@ while (k<728){
     cout<<"Pon el lavavajillas \n";
     k=k+1;
 }
-
+int w;
+w=0;
+while (w<15000){
+    cout<<"Te amo mucho, sigue así \n";
+    w=w+1;
